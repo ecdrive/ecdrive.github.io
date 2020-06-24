@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ecdrive.github.io</id>
     <title>娱乐城</title>
-    <updated>2020-06-24T19:04:59.934Z</updated>
+    <updated>2020-06-24T19:08:24.671Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://ecdrive.github.io"/>
     <link rel="self" href="https://ecdrive.github.io/atom.xml"/>
@@ -16,7 +16,7 @@
         </link>
         <updated>2020-06-24T17:09:50.000Z</updated>
         <content type="html"><![CDATA[<figure data-type="image" tabindex="1"><img src="https://cdn.jsdelivr.net/gh/ecdrive/img@master/uPic/jul255.jpg" alt="" loading="lazy"></figure>
-<center><video src="https://cdn.jsdelivr.net/gh/ecdrive/img@master/uPic/jul225.mp4" control="controls"></video></center>
+<center><video src="https://cdn.jsdelivr.net/gh/ecdrive/img@master/uPic/jul225.mp4" controls="controls"></video></center>
 <p>🚗 Let‘s <a href="https://entertainmentcity.cowtransfer.com/s/fa054e53906e4d"><strong>GO</strong></a>!</p>
 ]]></content>
     </entry>
